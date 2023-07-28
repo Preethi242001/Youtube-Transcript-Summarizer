@@ -1,0 +1,20 @@
+https://pypi.org/project/youtube-transcript-api/
+
+=================== from web browser===================================================================
+
+http://localhost/TESTING/myhtml.html
+
+Barack Obama Video
+
+https://www.youtube.com/watch?v=aOL7wzEIZSc
+
+python.exe "C:\xampp\htdocs\TESTING\yts.py"  "https://www.youtube.com/watch?v=aOL7wzEIZSc" "en" "FALSE"
+
+=======================================================================================================
+https://www.youtube.com/watch?v=A4OmtyaBHFE
+
+python.exe "C:\xampp\htdocs\TESTING\yts.py"  "https://www.youtube.com/watch?v=A4OmtyaBHFE" "en" "FALSE"
+
+*******************************************************************************************************
+
+
